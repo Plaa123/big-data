@@ -1,3 +1,4 @@
+config 文件夹是Hadoop，yarn配置文件
+share 文件夹存放的是测试的spark 程序
 这里的Dockerfile 用于构建新的image
-docker-compose.yanl 也修改成了自建的image
-基于原版，作了一些修改
+docker-compose.yaml 中用的image也修改成了自建的image
