@@ -1,0 +1,3 @@
+这里的Dockerfile 用于构建新的image
+docker-compose.yanl 也修改成了自建的image
+基于原版，作了一些修改
